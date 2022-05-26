@@ -1,0 +1,12 @@
+node_modules/
+.husky/
+coverage/
+instrumented/
+cypress/
+cypress-coverage/
+.nyc_output/
+coverage.json
+cypress.json
+fixtures/
+test/
+dist/

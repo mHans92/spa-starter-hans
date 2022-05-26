@@ -1,0 +1,406 @@
+    [
+        {
+            "adult": false,
+            "backdrop_path": "/egoyMDLqCxzjnSrWOz50uLlJWmD.jpg",
+            "genre_ids": [
+                28,
+                878,
+                35,
+                10751,
+                12
+            ],
+            "id": 675353,
+            "original_language": "en",
+            "original_title": "Sonic the Hedgehog 2",
+            "overview": "After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
+            "popularity": 7239.369,
+            "poster_path": "/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+            "release_date": "2022-03-30",
+            "title": "Sonic the Hedgehog 2",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 958
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aEGiJJP91HsKVTEPy1HhmN0wRLm.jpg",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "id": 335787,
+            "original_language": "en",
+            "original_title": "Uncharted",
+            "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
+            "popularity": 5229.045,
+            "poster_path": "/tlZpSxYuBRoVJBOpUrPdQe9FmFq.jpg",
+            "release_date": "2022-02-10",
+            "title": "Uncharted",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1689
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5P8SmMzSNYikXpxil6BYzJ16611.jpg",
+            "genre_ids": [
+                80,
+                9648,
+                53
+            ],
+            "id": 414906,
+            "original_language": "en",
+            "original_title": "The Batman",
+            "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+            "popularity": 4988.686,
+            "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+            "release_date": "2022-03-01",
+            "title": "The Batman",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 4287
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 634649,
+            "original_language": "en",
+            "original_title": "Spider-Man: No Way Home",
+            "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "popularity": 3922.553,
+            "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+            "release_date": "2021-12-15",
+            "title": "Spider-Man: No Way Home",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 12431
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ndCSoasjIZAMMDIuMxuGnNWu4DU.jpg",
+            "genre_ids": [
+                14,
+                28,
+                12
+            ],
+            "id": 453395,
+            "original_language": "en",
+            "original_title": "Doctor Strange in the Multiverse of Madness",
+            "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+            "popularity": 3715.268,
+            "poster_path": "/wRnbWt44nKjsFPrqSmwYki5vZtF.jpg",
+            "release_date": "2022-05-04",
+            "title": "Doctor Strange in the Multiverse of Madness",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 499
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/192vHmAPbk5esL34XMKZ1YLGFjr.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 763285,
+            "original_language": "en",
+            "original_title": "Ambulance",
+            "overview": "Decorated veteran Will Sharp, desperate for money to cover his wife's medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million.",
+            "popularity": 3681.171,
+            "poster_path": "/kuxjMVuc3VTD7p42TZpJNsSrM1V.jpg",
+            "release_date": "2022-03-16",
+            "title": "Ambulance",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 457
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zBG5Mg29NH9xxpWMMG7BIvKwYhL.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 829557,
+            "original_language": "pl",
+            "original_title": "365 Days: This Day",
+            "overview": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.",
+            "popularity": 2756.466,
+            "poster_path": "/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",
+            "release_date": "2022-04-27",
+            "title": "365 Days: This Day",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 296
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                14
+            ],
+            "id": 508947,
+            "original_language": "en",
+            "original_title": "Turning Red",
+            "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+            "popularity": 2694.37,
+            "poster_path": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+            "release_date": "2022-03-10",
+            "title": "Turning Red",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 2014
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i0zbSmiyyylh7H3Qb4jgscz46Pm.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 893370,
+            "original_language": "es",
+            "original_title": "Virus-32",
+            "overview": "A virus is unleashed and a chilling massacre runs through the streets of Montevideo.",
+            "popularity": 2406.878,
+            "poster_path": "/wZiF79hbhLK1U2Pj9bF67NAKXQR.jpg",
+            "release_date": "2022-04-21",
+            "title": "Virus:32",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fEe5fe82qHzjO4yej0o79etqsWV.jpg",
+            "genre_ids": [
+                16,
+                35,
+                28,
+                10751,
+                80
+            ],
+            "id": 629542,
+            "original_language": "en",
+            "original_title": "The Bad Guys",
+            "overview": "When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.",
+            "popularity": 2191.001,
+            "poster_path": "/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg",
+            "release_date": "2022-03-17",
+            "title": "The Bad Guys",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 217
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2n95p9isIi1LYTscTcGytlI4zYd.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 799876,
+            "original_language": "en",
+            "original_title": "The Outfit",
+            "overview": "Leonard is an English tailor who used to craft suits on London’s world-famous Savile Row. After a personal tragedy, he’s ended up in Chicago, operating a small tailor shop in a rough part of town where he makes beautiful clothes for the only people around who can afford them: a family of vicious gangsters.",
+            "popularity": 1995.126,
+            "poster_path": "/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg",
+            "release_date": "2022-02-25",
+            "title": "The Outfit",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 173
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eQN31P4IEhyp6NkdccvppJnyuJ4.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14,
+                878
+            ],
+            "id": 284052,
+            "original_language": "en",
+            "original_title": "Doctor Strange",
+            "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+            "popularity": 1821.228,
+            "poster_path": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+            "release_date": "2016-10-25",
+            "title": "Doctor Strange",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 18831
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x747ZvF0CcYYTTpPRCoUrxA2cYy.jpg",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "id": 406759,
+            "original_language": "en",
+            "original_title": "Moonfall",
+            "overview": "A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.",
+            "popularity": 1476.1,
+            "poster_path": "/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg",
+            "release_date": "2022-02-03",
+            "title": "Moonfall",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 894
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 568124,
+            "original_language": "en",
+            "original_title": "Encanto",
+            "overview": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
+            "popularity": 1397.351,
+            "poster_path": "/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+            "release_date": "2021-11-24",
+            "title": "Encanto",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 6301
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hXTWVJMsI9BkxMLliqL1j0FT55t.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 606402,
+            "original_language": "ko",
+            "original_title": "야차",
+            "overview": "Nicknamed after a human-devouring spirit, the ruthless leader of an overseas black ops team takes up a dangerous mission in a city riddled with spies.",
+            "popularity": 1311.575,
+            "poster_path": "/7MDgiFOPUCeG74nQsMKJuzTJrtc.jpg",
+            "release_date": "2022-04-08",
+            "title": "Yaksha: Ruthless Operations",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xicKILMzPn6XZYCOpWwaxlUzg6S.jpg",
+            "genre_ids": [
+                53,
+                28
+            ],
+            "id": 294793,
+            "original_language": "en",
+            "original_title": "All the Old Knives",
+            "overview": "When the CIA discovers one of its agents leaked information that cost more than 100 people their lives, veteran operative Henry Pelham is assigned to root out the mole with his former lover and colleague Celia Harrison.",
+            "popularity": 1217.482,
+            "poster_path": "/g4tMniKxol1TBJrHlAtiDjjlx4Q.jpg",
+            "release_date": "2022-04-08",
+            "title": "All the Old Knives",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j8ve0iuDEnrcSpUxL62uvI4wnwB.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                10749
+            ],
+            "id": 937337,
+            "original_language": "es",
+            "original_title": "¡Qué despadre!",
+            "overview": "Pedro is a single man in his forties who likes to party, has no children and lives at night. Everything changes when he meets Alin. She mentions to him that she is looking for her dad and that there is a high probability that it is him.",
+            "popularity": 1206.982,
+            "poster_path": "/IkdBm3dDA11pNFlbkLcU5WdESn.jpg",
+            "release_date": "2022-02-09",
+            "title": "¡Qué despadre!",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qBLEWvJNVsehJkEJqIigPsWyBse.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                35,
+                12
+            ],
+            "id": 585083,
+            "original_language": "en",
+            "original_title": "Hotel Transylvania: Transformania",
+            "overview": "When Van Helsing's mysterious invention, the \"Monsterfication Ray,\" goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it's too late, and before they drive each other crazy.",
+            "popularity": 1125.626,
+            "poster_path": "/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg",
+            "release_date": "2022-02-25",
+            "title": "Hotel Transylvania: Transformania",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 814
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iDeWAGnmloZ5Oz3bocDp4rSbUXd.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 823625,
+            "original_language": "en",
+            "original_title": "Blacklight",
+            "overview": "Travis Block is a shadowy Government agent who specializes in removing operatives whose covers have been exposed. He then has to uncover a deadly conspiracy within his own ranks that reaches the highest echelons of power.",
+            "popularity": 1098.641,
+            "poster_path": "/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",
+            "release_date": "2022-02-10",
+            "title": "Blacklight",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 337
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ewUqXnwiRLhgmGhuksOdLgh49Ch.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                878
+            ],
+            "id": 696806,
+            "original_language": "en",
+            "original_title": "The Adam Project",
+            "overview": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.",
+            "popularity": 1087.322,
+            "poster_path": "/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg",
+            "release_date": "2022-03-11",
+            "title": "The Adam Project",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 2072
+        }
+    ]
+    
+
