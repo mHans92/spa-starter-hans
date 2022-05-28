@@ -2,9 +2,9 @@ import { css, html, LitElement } from "lit";
 import { subscribe } from "valtio/vanilla";
 import { state } from "../states/state";
 import { sharedStyles } from './sharedStyles';
-import corazon from "../img/corazon.png";
+import corazon from "../assets/corazon.png";
 import "../components/carousel.component";
-import { customElement } from "lit-element";
+
 
 
 export class MoviesUI extends LitElement {
