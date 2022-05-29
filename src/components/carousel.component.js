@@ -1,7 +1,7 @@
 import {css, html, LitElement } from "lit";
-import matrix from "../assets/matrix.jpg";
-import esdla from "../assets/esdla.jpg";
-import starWars from "../assets/starWars.jpg";
+import matrix from "../../assets/matrix.jpg";
+import esdla from "../../assets/esdla.jpg";
+import starWars from "../../assets/starWars.jpg";
 
 
 export class Carousel extends LitElement {
